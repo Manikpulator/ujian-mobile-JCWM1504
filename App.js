@@ -72,6 +72,9 @@ const App: () => React$Node = () => {
   );
 };
 
+// halloooooooooooo
+// halooooooooooooo
+
 const styles = StyleSheet.create({
   scrollView: {
     backgroundColor: Colors.lighter,
